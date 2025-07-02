@@ -1,11 +1,20 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "my-app",
     "slug": "my-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "myapp",
+=======
+    "name": "Login-Registration",
+    "slug": "Login-Registration",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "loginregistration",
+>>>>>>> 525b5d3 (Initial commit)
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
@@ -16,8 +25,12 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
+<<<<<<< HEAD
       "edgeToEdgeEnabled": true,
       "package": "com.anonymous.myapp"
+=======
+      "edgeToEdgeEnabled": true
+>>>>>>> 525b5d3 (Initial commit)
     },
     "web": {
       "bundler": "metro",
